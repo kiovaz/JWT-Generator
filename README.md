@@ -28,7 +28,7 @@ cd JWT-Generator
 
 2. Execute o script:
 ```bash
-python gerar_chaves_jwt.py
+python keygen.py
 ```
 
 3. As chaves serão geradas e salvas no arquivo chaves_jwt.txt no mesmo diretório.
