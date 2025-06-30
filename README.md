@@ -22,8 +22,8 @@ Este repositório contém um script Python simples e seguro para gerar chaves JW
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/kiovaz/JWT-Generator.git
+cd JWT-Generator
 ```
 
 2. Execute o script:
